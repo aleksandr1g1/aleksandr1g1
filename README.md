@@ -14,8 +14,12 @@ Sasha, 20 y.o.
 ## ⚡ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandr1g1&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr1g1&layout=compact&theme=tokyonight)
 
 ## 🐧 Operating Systems & Tools
 
@@ -34,5 +38,4 @@ Sasha, 20 y.o.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/giver2)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=fff)](https://open.spotify.com/user/ha9v586gd9bvlke72s6so6zte?si=8c35ddd8d16e4c5e)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandr1g1&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr1g1&layout=compact&theme=tokyonight)
+![Metrics](https://raw.githubusercontent.com/aleksandr1g1/aleksandr1g1/main/github-metrics.svg)
