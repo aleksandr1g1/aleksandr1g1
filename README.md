@@ -37,5 +37,3 @@ Sasha, 20 y.o.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/giver2)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=fff)](https://open.spotify.com/user/ha9v586gd9bvlke72s6so6zte?si=8c35ddd8d16e4c5e)
-
-![Metrics](https://raw.githubusercontent.com/aleksandr1g1/aleksandr1g1/main/github-metrics.svg)
