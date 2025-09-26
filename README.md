@@ -1,6 +1,6 @@
 # Привет 👋
 
-Меня зовут **[Твоё имя или ник]**  
+Меня зовут aleksandrg1 
 Я увлекаюсь разработкой и изучаю новые технологии. 🚀  
 
 ## 🧑‍💻 Обо мне
@@ -19,8 +19,8 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
 
 ## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandrg1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrg1&layout=compact&theme=tokyonight)
 
 ## 🌐 Соцсети
 - 💼 [LinkedIn](https://linkedin.com/in/твой_профиль)  
