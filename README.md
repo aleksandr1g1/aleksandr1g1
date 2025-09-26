@@ -1,9 +1,11 @@
 # Salam 👋
 
 Sasha, 20 y.o.
-- I’m a mental broken
 
 ## 🧑‍💻 About Me
+- Dota 2: 7 000 mmr (current)
+- Valorant: Immortal (prime)
+- CS2: 10 lvl Faceit (prime)
 - 🎓 Computer Science 
 - 🖥️ Not really interested in software development and web technologies  
 - 🎧 Music and DJing enthusiast  
@@ -20,3 +22,8 @@ Sasha, 20 y.o.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=fff)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
+
+## 🌐 Socials
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/giver2)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=fff)](https://open.spotify.com/user/ha9v586gd9bvlke72s6so6zte?si=8c35ddd8d16e4c5e)
