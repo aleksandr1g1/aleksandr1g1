@@ -23,6 +23,7 @@ Sasha, 20 y.o.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=fff)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
+![Cursor](https://img.shields.io/badge/-Cursor-FF6F61?style=for-the-badge&logo=cursor&logoColor=fff)
 
 ## 🎮 Games
 
