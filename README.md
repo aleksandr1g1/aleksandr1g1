@@ -3,6 +3,12 @@
 Sasha, 20 y.o.
 
 ## 🧑‍💻 About Me
+## 🎮 Games
+
+![Dota 2](https://img.shields.io/badge/Dota%202-CC2222?style=for-the-badge&logo=dota2&logoColor=fff)
+![Counter-Strike 2](https://img.shields.io/badge/Counter--Strike%202-000000?style=for-the-badge&logo=counterstrike&logoColor=fff)
+![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=fff)
+
 - Dota 2: 7 000 mmr (current)
 - Valorant: Immortal (prime)
 - CS2: 10 lvl Faceit (prime)
