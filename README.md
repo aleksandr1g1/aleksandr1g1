@@ -1,7 +1,7 @@
 # Salam 👋
 
 Sasha, 20 y.o.
-I’m a mental broken
+- I’m a mental broken
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science 
