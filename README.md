@@ -1,11 +1,11 @@
-# Shalom 👋
+# Salam 👋
 
-My name is Sasha  
+Sasha, 20 y.o.
 I’m a mental broken
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science 
-- 🖥️ Interested in software development and web technologies  
+- 🖥️ Not really interested in software development and web technologies  
 - 🎧 Music and DJing enthusiast  
 
 ## ⚡ Tech Stack
@@ -19,3 +19,4 @@ I’m a mental broken
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=fff)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
