@@ -3,12 +3,13 @@
 Sasha, 20 y.o.
 
 ## 🧑‍💻 About Me
-![Dota 2](https://img.shields.io/badge/Dota%202-CC2222?style=for-the-badge&logo=dota2&logoColor=fff) : 7 000 mmr (current)
-![Counter-Strike 2](https://img.shields.io/badge/Counter--Strike%202-000000?style=for-the-badge&logo=counterstrike&logoColor=fff) : Immortal (prime)
-![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=fff) : 10 lvl Faceit (prime)
 - 🎓 Computer Science 
 - 🖥️ Not really interested in software development and web technologies  
-- 🎧 Music and DJing enthusiast  
+- 🎧 Music and DJing enthusiast
+- 💼 Marketing manager
+- Dota 2: 7 000 mmr (current)
+- CS2: 10 lvl Faceit (prime)
+- Valorant: Immortal (prime)
 
 ## ⚡ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
@@ -22,6 +23,12 @@ Sasha, 20 y.o.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=fff)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
+
+## 🎮 Games
+
+![Dota 2](https://img.shields.io/badge/Dota%202-CC2222?style=for-the-badge&logo=dota2&logoColor=fff)
+![Counter-Strike 2](https://img.shields.io/badge/Counter--Strike%202-000000?style=for-the-badge&logo=counterstrike&logoColor=fff)
+![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=fff)
 
 ## 🌐 Socials
 
